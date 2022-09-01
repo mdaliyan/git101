@@ -5,7 +5,7 @@ I write somethinsbg
 fnjgfd
 gdfg gdgdfgfdg fd
  fdgdfg
-g 
+g  f sfdsf
 tg
 d 
 gdf
@@ -14,3 +14,12 @@ dfg
 f 
 gdf
 gdf
+ ergrg
+ er
+ g
+ eg
+  erg
+  re g
+  reg
+  er
+  g
