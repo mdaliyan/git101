@@ -1,5 +1,7 @@
 # git101
 
+# feature B
+
 I write somethinsbg
 
 fnjgfd
